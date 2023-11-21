@@ -1,0 +1,10 @@
+1. What is the difference between a Hash Table and a Dictionary?
+
+Dictionary: Returns error if the key does not exist. Not need boxing and unboxing. Faster than hash table
+Hash Table: Returns NULL if the key does not exist. Required boxing and unboxing. Slower than dictionary
+
+2. How does the .NET framework work?
+.Net-based applications support languages like C#, and Visual Basic (vb) and are compiled into common Intermediate language (CIL).
+compiled code is stored in the form of an assembly file having .dll and .exe extension.
+Common language Runtime is conveets the compiled code to machine code with help of Just in Time (JIT) compiler.
+
