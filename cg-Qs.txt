@@ -1,53 +1,101 @@
 General .NET Knowledge:
 
-1: String = immutable, uses more memory allocations during string manipulation operations. 
-vs. StringBuilder = mutable. more efficient for manipulation operations (ex: append())
+String is immutable; each modification creates a new object. uses more memory allocations.
+StringBuilder is mutable, efficient for dynamic string manipulations.(s.append())
 
+ViewState in ASP.NET:
+Persists state between postbacks in ASP.NET Web Forms.
 
-What is the purpose of the ViewState in ASP.NET?
-Describe the difference between IEnumerable and IQueryable in LINQ.
-How does ASP.NET MVC differ from ASP.NET Web Forms?
-Explain the concept of Dependency Injection (DI) and how it's implemented in .NET Core.
-What is the role of the Global.asax file in an ASP.NET application?
-How does the Entity Framework work, and what are its main components?
-Explain the difference between == and Equals in C# with regards to string comparison.
-What is the purpose of the using statement in C#?
-Can you explain the SOLID principles and provide examples of how you might apply them in your code?
-What are async and await keywords in C#? How do they work, and why are they important?
-Explain the differences between WCF and Web API. When would you use one over the other?
-How does garbage collection work in .NET, and what is the role of the Garbage Collector?
-What is the purpose of the App.config or Web.config file in a .NET application?
-Explain the differences between ref and out keywords in C#.
-How would you handle errors and exceptions in a .NET application?
-Can you explain the concept of a delegate in C#?
-What are extension methods, and how are they useful in C#?
-Explain the differences between a value type and a reference type in C#.
-How does caching work in ASP.NET, and what are the different types of caching mechanisms available?
+IEnumerable vs. IQueryable:
+IEnumerable for LINQ to Objects; IQueryable for LINQ to SQL.
 
+ASP.NET MVC vs. Web Forms:
+MVC separates concerns; Web Forms is event-driven.
+
+Dependency Injection (DI):
+Promotes loose coupling and testability by injecting dependencies.
+
+Global.asax:
+ASP.NET application file containing application-wide events and settings.
+
+Entity Framework:
+ORM framework simplifying database operations with .NET objects.
+
+String Comparison in C#:
+== compares reference equality; Equals compares content equality.
+
+Using Statement in C#:
+Manages resources, ensures disposal within a defined scope.
+
+SOLID Principles:
+Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion.
+
+async and await:
+Facilitate asynchronous programming, ensuring non-blocking execution.
+
+WCF vs. Web API:
+WCF for distributed systems; Web API for HTTP services.
+
+Garbage Collection in .NET:
+Automatic memory management by reclaiming unused objects.
+
+App.config or Web.config:
+Configuration files holding application settings.
+
+ref vs. out:
+Both pass parameters by reference; out requires assignment within the method.
+
+Error Handling in .NET:
+Use try, catch, finally blocks for structured error handling.
+
+Delegate in C#:
+Represents references to methods with specific parameters and return types.
+
+Extension Methods: Add new methods to existing types without modifying them.
+
+Value Type vs. Reference Type:
+Value types store data directly; reference types store references.
+
+Caching in ASP.NET:
+Mechanisms like Output Caching, Fragment Caching, and Data Caching for performance.
 OOP, Exception Handling, Method Overriding, Method Overloading, Constructors, Access Modifiers, and Design Patterns:
 
-Explain the principles of Object-Oriented Programming (OOP). How does it promote code reusability and maintainability?
-What is encapsulation, and how is it implemented in C#? Provide an example.
-Discuss the differences between abstract classes and interfaces in C#. When would you use one over the other?
-What is polymorphism, and how does it relate to method overloading and method overriding?
-Explain the concept of inheritance in C#. Provide an example of a scenario where inheritance is useful.
-How does exception handling work in C#? Explain the use of try, catch, and finally blocks.
-What is the purpose of the throw statement in C#?
-Explain the differences between checked and unchecked exceptions.
-What is method overloading, and how does it differ from method overriding? Provide examples.
-Discuss the virtual and override keywords in C# in the context of method overriding.
-Can you explain the concept of method hiding in C#?
-What are constructors in C#? How are they different from regular methods?
-Explain the differences between a default constructor and a parameterized constructor.
-Discuss the various access modifiers in C# (e.g., public, private, protected, internal). When would you use each one?
-Explain the concept of properties in C#. How are they related to access modifiers?
-What is the Singleton pattern, and when would you use it in your application?
-Can you explain the Factory Method pattern and provide an example of its implementation in C#?
-Discuss the Observer pattern and how it can be applied in C# applications.
-Explain the Dependency Injection pattern and its benefits in the context of .NET Core.
-What is the Repository pattern, and how does it help in data access layer design?
-These questions cover a broad spectrum of topics that are commonly addressed in .NET technical interviews. Make sure to review and understand each concept thoroughly. Good luck!
+OOP Principles: Encapsulation, Inheritance, Polymorphism for code structuring.
 
+Encapsulation in C#: Bundles data and associated methods, ensuring data integrity.
 
+Abstract Classes vs. Interfaces: Abstract classes can have method implementations; interfaces define signatures.
 
+Polymorphism: Objects treated as instances of their base class, enhancing flexibility.
 
+Inheritance in C#: Allows a class to inherit properties and methods from another class.
+
+Exception Handling: Use try, catch, finally blocks for handling and managing exceptions.
+
+Throw Statement: Explicitly throws an exception.
+
+Checked vs. Unchecked Exceptions: Checked exceptions checked at compile-time; unchecked exceptions are not.
+
+Method Overloading: Defines multiple methods with the same name but different parameters.
+
+Virtual and Override Keywords: virtual allows method overriding; override provides specific implementation.
+
+Method Hiding: Occurs when a base class method is redefined in a derived class using new.
+
+Constructors in C#: Special methods for initializing objects; default and parameterized constructors.
+
+Default vs. Parameterized Constructor: Default constructor has no parameters; parameterized constructor accepts parameters.
+
+Access Modifiers in C#: Control visibility and accessibility of classes, methods, and properties.
+
+Properties in C#: Provide access and modification to private fields with additional logic.
+
+Singleton Pattern: Ensures a class has only one instance and provides a global point to it.
+
+Factory Method Pattern: Defines an interface for creating objects, allowing subclasses to alter types.
+
+Observer Pattern: Establishes one-to-many dependency between objects for state changes.
+
+Dependency Injection (DI) Pattern: Design pattern where a class receives dependencies from external sources.
+
+Repository Pattern: Separates logic that retrieves data from the underlying storage.
