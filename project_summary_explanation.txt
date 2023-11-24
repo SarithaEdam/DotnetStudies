@@ -1,5 +1,5 @@
 I was working on a mutual fund web application(Edelwise), that has many modules. [User profile, new Purchase, additional purchase, SIP, STP, and their prepaid modules].
-I developed some of the modules such as user-profile, prepaid-STP, combo-SIP, and multi-goal-SIP.
+I developed some of the modules such as payment-process, user-profile, prepaid-STP, combo-SIP, and multi-goal-SIP.
 I have used <MVC, rest API's, WCF services> tools to develop those modules.
 I used to write validation checks where the user gave inputs using tool-stack <HTML, JavaScript, jQuery, and Ajax>. 
  
