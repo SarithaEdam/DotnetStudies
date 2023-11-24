@@ -5,4 +5,5 @@ Where distributors can invest in the scheme of mutual funds. The distributor can
 The dashboard contains some icons available those are User profile, new Purchase, additional purchase, Systematic Investment Plan(SIP), and redemption.
 In this project, I used to develop a user profile having a mobile number, email, joint holders, and nominees we can add up to 2 joint holders and 3 nominees  and also 
 while entering PAN it auto-populated the name with KYC service through the rest API's. In this user profile module, I used HTML, JavaScript, jQuery, and Ajax to perform
-client-side validations.
+client-side validations. The distributor can select the investor through folio select the scheme, plan and option, and then enter the amount to submit all these then it goes to the review page then initiates the transaction. Then after Investor the reviews all the scheme details then proceed with payments like bill desk, NEFT/RTGS,OTM, etc..
+
