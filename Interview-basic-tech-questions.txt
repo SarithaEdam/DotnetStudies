@@ -3,15 +3,15 @@ Question: Explain about the projects you worked on.-----------------------------
 Answer:
 I used to work on projects like mutual fund web applications, that have many modules. [User profile, new Purchase, additional purchase, SIP, STP, and their prepaid modules].
 I developed some of the modules such as payment-process, user-profile, prepaid-STP, combo-SIP, and multi-goal-SIP.
-I have used <MVC, rest API's, WCF services> tools to develop those modules.
+I have used <MVC, rest API's, WCF services> technologies to develop those modules.
 I used to write validation checks using tool-stack <HTML, JavaScript, jQuery, and Ajax>. [for user inputs] 
 I used to deploy applications on UAT, pre-prod, and Prod environments.
 I used to write documentation for the APIs that I have developed. 
-Also used to support production issues 
+Also used to support the production issues 
 
 ?Mutual funds such as Edelweiss, Invesco, Nippon 
 
-Apart from Mutual funds, I have worked on the EasyHR project, where I have used ASP.NET and ADO.net tools as extra. 
+Apart from Mutual funds, I have worked on the EasyHR project, where I have used ASP.NET and ADO.net technologies as extra. 
 And also I used to develop the 3-tier architecture too.
 
 -----------------------------------------------------------------------------------------------
