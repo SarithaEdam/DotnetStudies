@@ -1,6 +1,7 @@
 General .NET Knowledge:
 
-1: String vs. StringBuilder: String is immutable, while StringBuilder is mutable, making the latter more efficient for concatenating strings in scenarios with frequent modifications.[manipulation operations]
+1: String = immutable, uses more memory allocations during string manipulation operations. 
+vs. StringBuilder = mutable. more efficient for manipulation operations (ex: append())
 
 
 What is the purpose of the ViewState in ASP.NET?
