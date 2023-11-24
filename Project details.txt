@@ -1,0 +1,8 @@
+Project 1: Edelweiss Mutual Fund 
+Mutual fund: It is an investment platform where we can invest the money to get profits.
+Des: In this mutual fund, two types of people are there like Investors and distributors, where investors can explore the mutual fund by taking different schemes.
+Where distributors can invest in the scheme of mutual funds. The distributor can register and login arn details. When we log into the distributor portal it shows the dashboard. 
+The dashboard contains some icons available those are User profile, new Purchase, additional purchase, Systematic Investment Plan(SIP), and redemption.
+In this project, I used to develop a user profile having a mobile number, email, joint holders, and nominees we can add up to 2 joint holders and 3 nominees  and also 
+while entering PAN it auto-populated the name with KYC service through the rest API's. In this user profile module, I used HTML, JavaScript, jQuery, and Ajax to perform
+client-side validations.
