@@ -1,6 +1,8 @@
 General .NET Knowledge:
 
-Explain the difference between String and StringBuilder in C#.
+1: String vs. StringBuilder: String is immutable, while StringBuilder is mutable, making the latter more efficient for concatenating strings in scenarios with frequent modifications.[manipulation operations]
+
+
 What is the purpose of the ViewState in ASP.NET?
 Describe the difference between IEnumerable and IQueryable in LINQ.
 How does ASP.NET MVC differ from ASP.NET Web Forms?
