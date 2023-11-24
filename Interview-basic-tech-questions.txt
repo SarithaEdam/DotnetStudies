@@ -12,6 +12,7 @@ Also used to support production issues
 ?Mutual funds such as Edelwise, Invesco, Nippon 
 
 Apart from Mutual funds, I have worked on the EasyHR project, where I have used ASP.NET and ADO.net tools as extra. 
+And also I used to develop the 3-tier architecture too.
 
 -----------------------------------------------------------------------------------------------
 
