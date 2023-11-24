@@ -78,15 +78,18 @@ Checked vs. Unchecked Exceptions: Checked exceptions checked at compile-time; un
 
 Method Overloading: Defines multiple methods with the same name but different parameters.
 
-Virtual and Override Keywords: virtual allows method overriding; override provides specific implementation.
+Virtual and Override Keywords:
+virtual allows method overriding; override provides specific implementation.
 
 Method Hiding: Occurs when a base class method is redefined in a derived class using new.
 
 Constructors in C#: Special methods for initializing objects; default and parameterized constructors.
 
-Default vs. Parameterized Constructor: Default constructor has no parameters; parameterized constructor accepts parameters.
+Default vs. Parameterized Constructor: 
+Default constructor has no parameters; parameterized constructor accepts parameters.
 
-Access Modifiers in C#: Control visibility and accessibility of classes, methods, and properties.
+Access Modifiers in C#: 
+Control visibility and accessibility of classes, methods, and properties.
 
 Properties in C#: Provide access and modification to private fields with additional logic.
 
@@ -96,6 +99,7 @@ Factory Method Pattern: Defines an interface for creating objects, allowing subc
 
 Observer Pattern: Establishes one-to-many dependency between objects for state changes.
 
-Dependency Injection (DI) Pattern: Design pattern where a class receives dependencies from external sources.
+Dependency Injection (DI) Pattern: 
+Design pattern where a class receives dependencies from external sources.
 
 Repository Pattern: Separates logic that retrieves data from the underlying storage.
