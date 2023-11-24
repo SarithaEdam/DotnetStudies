@@ -1,0 +1,3 @@
+I used write validation check where user gives inputs. 
+I used develpe <> modules in the mutual fund applications. 
+I have used <> tools to develope those modules. 
