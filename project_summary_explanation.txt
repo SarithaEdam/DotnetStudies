@@ -1,3 +1,6 @@
+I was working on a mutual fund web application, where it has <> modules.
+I used developed <> modules.
+
+I have used <> tools to develope those modules.
 I used write validation check where user gives inputs. 
-I used develpe <> modules in the mutual fund applications. 
-I have used <> tools to develope those modules. 
+ 
