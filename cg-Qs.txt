@@ -1,4 +1,5 @@
 General .NET Knowledge:
+
 Explain the difference between String and StringBuilder in C#.
 What is the purpose of the ViewState in ASP.NET?
 Describe the difference between IEnumerable and IQueryable in LINQ.
@@ -19,7 +20,9 @@ Can you explain the concept of a delegate in C#?
 What are extension methods, and how are they useful in C#?
 Explain the differences between a value type and a reference type in C#.
 How does caching work in ASP.NET, and what are the different types of caching mechanisms available?
+
 OOP, Exception Handling, Method Overriding, Method Overloading, Constructors, Access Modifiers, and Design Patterns:
+
 Explain the principles of Object-Oriented Programming (OOP). How does it promote code reusability and maintainability?
 What is encapsulation, and how is it implemented in C#? Provide an example.
 Discuss the differences between abstract classes and interfaces in C#. When would you use one over the other?
