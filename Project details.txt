@@ -1,10 +1,13 @@
 Project 1: Edelweiss Mutual Fund 
 Mutual fund: It is an investment platform where we can invest the money to get profits.
 Des: In this mutual fund, two types of people are there like Investors and distributors, where investors can explore the mutual fund by taking different schemes.
-Where distributors can invest in the scheme of mutual funds. The distributor can register and login with arn details. When we log into the distributor portal it shows the dashboard. 
+Where distributors can invest in the scheme of mutual funds. The distributor can register and log in with arn details. When we log into the distributor portal it shows the dashboard. 
 The dashboard contains total AUM's, User profile, new Purchase, additional purchase, Systematic Investment Plan(SIP), redemption, Preapaid STP, and Prepaid SIP.
-In this project, I used to develop a user profile having a mobile number, email, joint holders, and nominees we can add up to 2 joint holders and 2 nominees and also 
+In this project, 
+
+
+I used to develop a user profile having a mobile number, email, joint holders, and nominees we can add up to 2 joint holders and 2 nominees and also 
 while entering PAN it auto-populated the name with KYC service through the rest API's. In this user profile module, I used HTML, JavaScript, jQuery, and Ajax to perform
-client-side validations also I developed the rest APIs related to this module and I did the manual testing through Postman then I deployed the code in the UAT Server then I after whenever I got the approval from the client, I deployed the code in pre-production as we have CUG environment then after that client resources communicated through emails or meeting finally moved to the production environment. If any production issues arose, I resolved those issues too. I maintained the document for the rest API's.
+client-side validations also I developed the rest APIs related to this module and I did the manual testing through Postman then I deployed the code in the UAT Server then after, I deployed the code in pre-production then after that client resources communicated through emails or meeting finally moved to the production environment. If any production issues arose, I resolved those issues too. I maintained the document for the rest API's.
 The distributor can choose any purchases like New Purchase, Additional Purchase, SIP and redemption, Preapaid STP, Prepaid SIP. I developed the Prepaid SIP module the distributor can select the investor through folio select the scheme, plan, and option, and then enter the amount here I performed the client-side validations and developed the rest APIs, submitted all these then it goes to the review page then initiates the transaction. Then mail triggers to the investor, then after Investor the reviews all the scheme details proceed with payments like bill desk, NEFT/RTGS, OTM, etc... here I develop the payment process of the bill desk. I attended the daily stand-up call for the task updation. 
 
