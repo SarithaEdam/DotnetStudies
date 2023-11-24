@@ -1,5 +1,9 @@
 Q1. What is C#.net?
 Ans: C#.net is an object-oriented programing language developed by Microsoft .Net and It is type-safe. It can be used for a wide range of applications such as Windows applications, 
   web applications, websites, etc..
+----Can multiple catch blocks be executed?
+Ans: No.
+In C#, 
+
 
 Q2: 
