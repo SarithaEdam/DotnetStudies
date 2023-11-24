@@ -1,3 +1,5 @@
 Q1. What is C#.net?
-Ans: C#.net is object-orineted programing language developed by Microsoft .Net and It is type- safe. It can be used for wide range of applications such as windows applications, 
-  web applications, websites etc..
+Ans: C#.net is an object-oriented programing language developed by Microsoft .Net and It is type-safe. It can be used for a wide range of applications such as Windows applications, 
+  web applications, websites, etc..
+
+Q2: 
