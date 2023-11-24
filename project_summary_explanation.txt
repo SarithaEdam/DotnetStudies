@@ -6,7 +6,7 @@ I used to deploy applications on UAT, pre-prod, and Prod environments.
 I used to write documentation for the APIs that I have developed. 
 Also used to support production issues 
 
-Mutual funds such as Edelwise, Invesco, Nippon 
+?Mutual funds such as Edelwise, Invesco, Nippon 
 -----------------------------------------------------------------------------------------------
 
 
