@@ -4,7 +4,8 @@ Answer:
 I used to work on projects like mutual fund web applications, that have many modules. [User profile, new Purchase, additional purchase, SIP, STP, and their prepaid modules].
 I developed the modules such as payment-process, user-profile, prepaid-STP, combo-SIP, and multi-goal-SIP.
 I have used <MVC, rest API's, WCF services> technologies to develop those modules.
-I used to write validation checks using tool-stack <HTML, JavaScript, jQuery, and Ajax>. [for user inputs] 
+I have used HTML and ajax also.
+I used to write validation checks using tool-stack <JavaScript and jQuery>. [for user inputs] 
 I used to deploy applications on UAT, pre-prod, and Prod environments.
 I used to write documentation for the APIs that I have developed. 
 Also used to support the production issues 
