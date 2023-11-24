@@ -4,8 +4,6 @@ Des: In this mutual fund, two types of people are there like Investors and distr
 Where distributors can invest in the scheme of mutual funds. The distributor can register and log in with arn details. When we log into the distributor portal it shows the dashboard. 
 The dashboard contains total AUM's, User profile, new Purchase, additional purchase, Systematic Investment Plan(SIP), redemption, Preapaid STP, and Prepaid SIP.
 In this project, 
-
-
 I used to develop a user profile having a mobile number, email, joint holders, and nominees we can add up to 2 joint holders and 2 nominees and also 
 while entering PAN it auto-populated the name with KYC service through the rest API's. In this user profile module, I used HTML, JavaScript, jQuery, and Ajax to perform
 client-side validations also I developed the rest APIs related to this module and I did the manual testing through Postman then I deployed the code in the UAT Server then after, I deployed the code in pre-production then after that client resources communicated through emails or meeting finally moved to the production environment. If any production issues arose, I resolved those issues too. I maintained the document for the rest API's.
