@@ -1,0 +1,47 @@
+General .NET Knowledge:
+Explain the difference between String and StringBuilder in C#.
+What is the purpose of the ViewState in ASP.NET?
+Describe the difference between IEnumerable and IQueryable in LINQ.
+How does ASP.NET MVC differ from ASP.NET Web Forms?
+Explain the concept of Dependency Injection (DI) and how it's implemented in .NET Core.
+What is the role of the Global.asax file in an ASP.NET application?
+How does the Entity Framework work, and what are its main components?
+Explain the difference between == and Equals in C# with regards to string comparison.
+What is the purpose of the using statement in C#?
+Can you explain the SOLID principles and provide examples of how you might apply them in your code?
+What are async and await keywords in C#? How do they work, and why are they important?
+Explain the differences between WCF and Web API. When would you use one over the other?
+How does garbage collection work in .NET, and what is the role of the Garbage Collector?
+What is the purpose of the App.config or Web.config file in a .NET application?
+Explain the differences between ref and out keywords in C#.
+How would you handle errors and exceptions in a .NET application?
+Can you explain the concept of a delegate in C#?
+What are extension methods, and how are they useful in C#?
+Explain the differences between a value type and a reference type in C#.
+How does caching work in ASP.NET, and what are the different types of caching mechanisms available?
+OOP, Exception Handling, Method Overriding, Method Overloading, Constructors, Access Modifiers, and Design Patterns:
+Explain the principles of Object-Oriented Programming (OOP). How does it promote code reusability and maintainability?
+What is encapsulation, and how is it implemented in C#? Provide an example.
+Discuss the differences between abstract classes and interfaces in C#. When would you use one over the other?
+What is polymorphism, and how does it relate to method overloading and method overriding?
+Explain the concept of inheritance in C#. Provide an example of a scenario where inheritance is useful.
+How does exception handling work in C#? Explain the use of try, catch, and finally blocks.
+What is the purpose of the throw statement in C#?
+Explain the differences between checked and unchecked exceptions.
+What is method overloading, and how does it differ from method overriding? Provide examples.
+Discuss the virtual and override keywords in C# in the context of method overriding.
+Can you explain the concept of method hiding in C#?
+What are constructors in C#? How are they different from regular methods?
+Explain the differences between a default constructor and a parameterized constructor.
+Discuss the various access modifiers in C# (e.g., public, private, protected, internal). When would you use each one?
+Explain the concept of properties in C#. How are they related to access modifiers?
+What is the Singleton pattern, and when would you use it in your application?
+Can you explain the Factory Method pattern and provide an example of its implementation in C#?
+Discuss the Observer pattern and how it can be applied in C# applications.
+Explain the Dependency Injection pattern and its benefits in the context of .NET Core.
+What is the Repository pattern, and how does it help in data access layer design?
+These questions cover a broad spectrum of topics that are commonly addressed in .NET technical interviews. Make sure to review and understand each concept thoroughly. Good luck!
+
+
+
+
