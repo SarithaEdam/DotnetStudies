@@ -3,7 +3,7 @@ Question: Explain about the projects you worked on.-----------------------------
 Answer:
 I used to work on projects like mutual fund web applications, that have many modules. [User profile, new Purchase, additional purchase, SIP, STP, and their prepaid modules].
 I developed the modules such as payment-process, user-profile, prepaid-STP, combo-SIP, and multi-goal-SIP.
-I have used <oops concepts like inheritance, interface, MVC including Linq, State Management techniques, WCF services, HTML, and Ajax> to develop those modules.
+I have used <C#.net, oops concepts like inheritance, interface, MVC including Linq, State Management techniques, WCF services, HTML, and Ajax> to develop those modules.
 I used to write validation checks using tool-stack <JavaScript and jQuery>. [for user inputs] 
 I used to deploy applications on UAT, pre-prod, and Prod environments.
 I used to write documentation for the APIs that I have developed. 
